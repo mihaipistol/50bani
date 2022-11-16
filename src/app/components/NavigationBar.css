@@ -1,0 +1,18 @@
+.navBar {
+  padding: 20px;
+}
+
+.link {
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  background-color: dimgray;
+  font-size: large;
+  color: aliceblue;
+  font-style: normal;
+  text-decoration: none;
+}
+
+.link.active {
+  background-color: darkgreen;
+}
